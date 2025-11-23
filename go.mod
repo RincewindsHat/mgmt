@@ -12,7 +12,7 @@ require (
 	github.com/cyphar/filepath-securejoin v0.4.0
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
 	github.com/deniswernert/go-fstab v0.0.0-20141204152952-eb4090f26517
-	github.com/docker/docker v27.5.1+incompatible
+	github.com/docker/docker v28.0.0+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/fsnotify/fsnotify v1.8.0
 	github.com/gin-gonic/gin v1.10.0
